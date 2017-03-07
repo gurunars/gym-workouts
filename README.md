@@ -45,3 +45,9 @@ Dropset {
     > Lateral raises (25)
     > Lateral raises (20)
 }
+
+Dropset {
+    > Cable crossover (30)
+    > Cable crossover (25)
+    > Cable crossover (20)
+}
